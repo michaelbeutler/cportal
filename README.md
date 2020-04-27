@@ -1,4 +1,4 @@
-# CPortal :office:
+# CPortal
 This app allows you to interact with your customers :information_desk_person: and set priorities.
 
 ## Dependencies :package:
@@ -11,3 +11,9 @@ This app allows you to interact with your customers :information_desk_person: an
 - react-scripts: 3.4.1
 - redux: ^4.0.5
 - redux-thunk: ^2.3.0
+
+## Authors :fire:
+* **Michael Beutler** - *Initial work* - [MichiBeutler](https://github.com/MichiBeutler)
+
+## License :lock:
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
