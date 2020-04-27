@@ -5,7 +5,6 @@ import Widget from "../Widget";
 
 export class CustomerDashboard extends Component {
     render() {
-        console.log(this.props)
         return (
             <div>
                 <div>
