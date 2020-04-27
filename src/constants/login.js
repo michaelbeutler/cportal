@@ -1,0 +1,1 @@
+export const LOGIN_SET_TOKEN = "LOGIN_SET_TOKEN";
