@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+body {background-color: #ecf0f5;}
+h1 {
+    color: dodgerblue;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.problem-option{
+    display: block;
+    text-align: center;
+    font-size: 20pt;
+    height: 250px;
+    padding: 80px;
+    border: dodgerblue solid 5px;
+}
+.problem-option:hover {
+    text-decoration: none;
+    animation: color-me-in 0.35s;
+    background-color: dodgerblue;
+    color: white;
+}
+
+@keyframes color-me-in {
+    /* You could think of as "step 1" */
+    0% {
+      background: white;
+    }
+    /* You could think of as "step 2" */
+    100% {
+      background: dodgerblue;
+      color: white;
+    }
+  }

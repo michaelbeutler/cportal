@@ -1,0 +1,8 @@
+{
+  "name": "design-study-questions",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
