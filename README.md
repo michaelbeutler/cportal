@@ -13,7 +13,7 @@ This app allows you to interact with your customers :information_desk_person: an
 - redux-thunk: ^2.3.0
 
 ## Authors :fire:
-* **Michael Beutler** - *Initial work* - [MichiBeutler](https://github.com/MichiBeutler)
+* **Michael Beutler** - *Initial work* - [michaelbeutler](https://github.com/michaelbeutler)
 
 ## License :lock:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
